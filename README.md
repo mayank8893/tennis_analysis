@@ -7,4 +7,4 @@
   c) Is there any one grand slam that the big 3 have won less?
   
 4) Data cleaning was performed to make sure that there are no null values.
-5) Results are reported in the ppt filee.
+5) Results are reported in the pdf file.
